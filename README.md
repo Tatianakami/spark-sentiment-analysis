@@ -1,5 +1,14 @@
 # 🎬 Análise de Sentimentos em Larga Escala com PySpark e NLP
 
+
+
+# 🎬 Análise de Sentimentos em Larga Escala com PySpark e NLP
+
+![Nuvem de Palavras do Dataset](wordcloud_movies.jpg)
+
+*Nuvem de palavras gerada a partir dos depoimentos processados, destacando os termos mais frequentes após a limpeza de StopWords.*
+
+
 Este projeto implementa um pipeline completo de Processamento de Linguagem Natural (NLP) para classificar sentimentos em avaliações de filmes (IMDB). A solução utiliza a biblioteca MLlib do Apache Spark para garantir escalabilidade e processamento distribuído.
 
 ## 🛠️ Tecnologias Utilizadas
