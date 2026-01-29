@@ -2,7 +2,6 @@
 
 
 
-# 🎬 Análise de Sentimentos em Larga Escala com PySpark e NLP
 
 ![Nuvem de Palavras do Dataset](wordcloud_movies.jpg)
 
